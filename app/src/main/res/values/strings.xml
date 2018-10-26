@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HackCBS</string>
+    <string name="crop_name_hint">Crop name</string>
+</resources>
