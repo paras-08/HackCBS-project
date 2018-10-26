@@ -1,4 +1,5 @@
 <resources>
-    <string name="app_name">HackCBS</string>
+    <string name="app_name">Project</string>
     <string name="crop_name_hint">Crop name</string>
+    <string name="check_crop_health">Check Crop Health</string>
 </resources>
